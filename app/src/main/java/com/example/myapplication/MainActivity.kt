@@ -58,4 +58,8 @@ class MainActivity : AppCompatActivity() {
         displayList["two"] = "Is this two"
         displayList.remove("two")
     }
+
+    private fun sampleFunc() {
+        // empty intentionally
+    }
 }
